@@ -1,0 +1,8 @@
+/* my first pull request */
+#include <stdio.h>
+#include <stdlib.h>
+main()
+{
+printf(" mandir wahin banayenge, jaisingh sucks and some more things");
+return 0;
+}
